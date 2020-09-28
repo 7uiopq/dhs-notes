@@ -1,7 +1,7 @@
 # Welcome, contributors! 
 
 - Please be mindful of the [Code of Conduct](https://github.com/weiyi-m/dhs-notes/blob/master/CODE_OF_CONDUCT.md) while interacting or contributing!
-- Any enthusiastic and helpful contributor with some GitHub knowledge can consider helping me fix some problems listed in the [issues](https://github.com/HarshKapadia2/git_basics/issues).
+- Any enthusiastic and helpful contributor with some GitHub knowledge can consider helping me fix some problems listed in the [issues](https://github.com/weiyi-m/dhs-notes/issues).
 > NOTE:
 > - If you want to tackle an issue or a part of it, please leave a comment on the issue (mentioning the part you want to tackle), so that I can assign you to that part of the issue and multiple people do not handle the same part of the issue.
 > - If you make a contribution, please do not forget to add your details to the [CONTRIBUTORS.md](https://github.com/weiyi-m/dhs-notes/blob/master/CONTRIBUTORS.md) file!
