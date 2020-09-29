@@ -21,14 +21,14 @@ If you happen to get low marks on any exam while using my notes for revision, do
 - Be kind.
 
 ## Examination Dates (DD/MM/YYYY):
-- ~~21/09/2007, Monday, Y1 English 2020 EOY~~
-- 1/10/2007, Thursday, Y1 Higher Chinese 2020 EOY
-- 2/10/2007, Friday, Y1 Geography 2020 EOY
-- 5/10/2007, Monday, Y1 English Literature 2020 EOY
-- 6/10/2007, Tuesday, Y1 History 2020 EOY
-- 7/10/2007, Wednesday, Y1 science 2020 EOY
-- 8/10/2007, Thursday, Y1 Math 2020 EOY
-- 9/10/2007, Friday, Y1 Higher Music 2020 EOY (for MEP students)
+- ~~21/09/2020, Monday, Y1 English 2020 EOY~~
+- 1/10/2020, Thursday, Y1 Higher Chinese 2020 EOY
+- 2/10/2020, Friday, Y1 Geography 2020 EOY
+- 5/10/2020, Monday, Y1 English Literature 2020 EOY
+- 6/10/2020, Tuesday, Y1 History 2020 EOY
+- 7/10/2020, Wednesday, Y1 science 2020 EOY
+- 8/10/2020, Thursday, Y1 Math 2020 EOY
+- 9/10/2020, Friday, Y1 Higher Music 2020 EOY (for MEP students)
 
 <hr>
 
