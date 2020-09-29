@@ -11,7 +11,7 @@ If you would like to help out and commit pull requests to my notes, please do so
 #### Disclaimer:
 If you happen to get low marks on any exam while using my notes for revision, don't blame or flame. Keep your cool and be civilised. Please proceed at your own risk, and if you feel like my notes are insufficient/inaccurate, help other people out by creating a PR or leaving a respectful comment with constructive, specific feedback.
 
-### Guidelines:
+## Guidelines:
 - All notes are copyright and belong to the creator (which is me).
 - Practice **integrity**, do not copy or plagiarise my notes.
 - For internal circulation **only**.
