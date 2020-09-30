@@ -138,36 +138,56 @@ Economic Impacts:
 - Reduced agricultural yields
    - When water supply decreases, crop yield drops, resulting in less food produced and people dying due to starvation.
    - For example, in Punjab, India, groundwater stocks are becoming depleted at a rate faster than they can be replenished. This has resulted in farmers' agricultural yields being decreased at a steady rate.
+ 
+- Increased cost of industrial production
+   - The cost of industrial production refers to the cost of producing and manufacturing goods.
+   - As water constraints increase, so will the cost of industrial production.
+   - For example, in Europe and America, due to warm and dry summers in 2003, 2006 and 2009, some power plants reduced their power output as there was a lack of water to cool the generators. 
    
+Political impact:
+- Conflict over water supply
+   - Conflicts can arise over water resources when there is not enough water to go around.
+   - On a national scale, problems may arise when states or countries tap into the same water source.
+   - For example, the Mekong River winds its way nearly 4,500 kilometres through six countries. From its source on the Tibetan Plateau, the river meanders through China, Myanmar, Lao PDR, Thailand, Cambodia, and Vietnam before reaching the sea.
+     - Conflicts arise among some of the countries that share the Mekong. For example, Lao PDR's proposal to build the Xayaburi dam has gotten strong objections from neighbouring countries.
+     
+## Water shortage solutions
+Reducing water consumption:
+- Pricing of water
+   - Water is priced to reflect the scarcity of water and also to cover the high cost of producing clean water. 
+   - The Water Conversation Tax is a pricing system where an additional amount of money is charged based on total water consumption.
+   - This pricing system encourages people to reduce their water consumption to reduce their tax rates.
+
+- Public education
+   - This helps consumers to make informed choices when purchasing household products such as washing machines. It also helps the public to be more aware of reducing water consumption by using more water-efficient products.
    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Increasing water supply:
+- Local water catchment areas
+   - Water catchment areas refer to the area over which rain falls and is collected. 
+   - Local catchment areas take advantage of Singapore's high rainfall.
+   - Local catchment areas can also be recreational places
+   - However, land used for local catchment implies less land is available for other uses such as housing and industry.
+   - When there is little rainfall or a drought, local catchment areas are ineffective.
+   
+- Imported water
+   - Pipelines were built to transport water from Johor to Singapore due to the water agreement that Malaysia signed with Singapore.
+   - Importing water does not require land and hence frees up the land for other uses.
+   - Imported water is a cheaper source of water compared to desalinated water or NEWater.
+   - However, one disadvantage is that imported water may not be enough to meet water demands.
+   - Furthermore, water agreements eventually expire and there are no guarantees of future agreements.
+   
+- NEWater
+   - Used water may be treated to become drinking water.
+   - An advantage of NEWater is that it is not dependent on rainfall because it is produced from used water.
+   - Moreover, NEWater is ultra-pure and of high quality, purer than tap water, meaning that it is ideal for use in certain industries.
+   - However, NEWater is extremely expensive to produce.
+   - The public may find it difficult to fully accept this new technology of obtaining water from used water due to lack of knowledge about the treatment process.
+   
+- Desalination
+   - Desalination refers to the process of removing dissolved salts and other minerals from seawater in order to make it pure drinking water.
+   - Like NEWater, desalinated water is independent of rainfall and can be used to supplement water supply during a long dry spell.
+   - Desalination is attractive since we are in an island surrounded by a limitless supply of seawater.
+   - But, desalinated water is very expensive to produce as its production is energy-intensive.
+   - Large amounts of chemicals and salt solutions are produced during the desalination process. If they are improperly disposed if into the oceans, it may result in pollution.
+  
+  
