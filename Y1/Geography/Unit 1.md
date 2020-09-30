@@ -8,12 +8,12 @@ Topics covered:
 ## Photograph Description and Interpretation
 #### Describing and interpreting a given photograph:
 1. Divide the provided photograph into 9 broad sections: 
-  - Horizontally: Foreground, middle ground, and background
-  - Vertically: Left, right and center
+   - Horizontally: Foreground, middle ground, and background
+   - Vertically: Left, right and center
   
 2. Identify the important and relevant features in the photograph:
-  - Read the question carefully and analyse given keywords
-  - Identify features that need to be included
+   - Read the question carefully and analyse given keywords
+   - Identify features that need to be included
   
 3. Draw geographical conclusions between the features that have been identified and the question.
   - Refer to features according to their positions in the photograph
