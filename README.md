@@ -4,7 +4,7 @@ Welcome to my repository. In here, you will find my notes in my secondary school
 
 Please do take a look around! 
 
-If you are a student currently studying in Dunman High, feel free to use my notes as your reference when studying. However, if you are **not a Dunman High student**, please **refrain from distributing and sharing** these notes, as these notes are only allowed to be internally distributed.
+If you are a student currently studying in Dunman High, feel free to use my notes as your reference when studying. However, if you are **not a Dunman High student**, please **refrain from distributing and sharing without my permission** these notes, as these notes are only allowed to be internally distributed with the owner's permission. If you would like to ask for permission, drop me an email at ma.weiyi@dhs.sg.
 
 If you would like to help out and commit pull requests to my notes, please do so! Make sure your pull requests are helpful and valid.
 
@@ -22,8 +22,8 @@ If you happen to get low marks on any exam while using my notes for revision, do
 
 ## Examination Dates (DD/MM/YYYY):
 - ~~21/09/2020, Monday, Y1 English 2020 EOY~~
-- 1/10/2020, Thursday, Y1 Higher Chinese 2020 EOY
-- 2/10/2020, Friday, Y1 Geography 2020 EOY
+- ~~1/10/2020, Thursday, Y1 Higher Chinese 2020 EOY~~
+- ~~2/10/2020, Friday, Y1 Geography 2020 EOY~~
 - 5/10/2020, Monday, Y1 English Literature 2020 EOY
 - 6/10/2020, Tuesday, Y1 History 2020 EOY
 - 7/10/2020, Wednesday, Y1 science 2020 EOY
