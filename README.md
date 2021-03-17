@@ -13,6 +13,10 @@ After submitting your pull request, make sure to add your name in [`CONTRIBUTORS
 #### Disclaimer:
 If you happen to get low marks on any exam while using my notes for revision, don't blame or flame. Keep your cool and be civilised. Please proceed at your own risk, and if you feel like my notes are insufficient/inaccurate, help other people out by creating a PR or leaving a respectful comment with constructive, specific feedback.
 
+## Website:
+This repository is linked with Github Pages, meaning that there is a website specially made by me for this repository.
+Access the website at https://weiyi-m.github.io/dhs-notes!
+
 ## Guidelines:
 - All notes are copyright and belong to the creator (which is me).
 - Practice **integrity**, do not copy or plagiarise my notes.
@@ -20,6 +24,4 @@ If you happen to get low marks on any exam while using my notes for revision, do
 - Ensure that PRs are valid and helpful. Do not spam PRs.
 - Be kind.
 
-<hr>
 
-> Last Updated 06/01/2020
