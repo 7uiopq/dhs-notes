@@ -3,4 +3,4 @@
 
 After you have contributed, please add your name and email below:
 
-Weiyi Ma, ma.weiyi@dhs.sg (just me? ok.)
+Weiyi Ma, ma.weiyi@dhs.sg
