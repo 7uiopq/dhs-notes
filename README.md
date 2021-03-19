@@ -1,6 +1,6 @@
 # DHS Notes
 ### Hi there!
-Welcome to this repository. In here, you will find notes from Dunman High for all subjects.
+Welcome! In here, you will find notes from Dunman High for all subjects.
 
 Please do take a look around! 
 
