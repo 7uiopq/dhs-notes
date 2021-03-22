@@ -1,7 +1,7 @@
 # DHS Notes
 ### Hi there!
 
-<img src="https://img.shields.io/github/repo-size/weiyi-m/dhs-notes"> 
+<img src="https://img.shields.io/github/repo-size/weiyi-m/dhs-notes"> <img src="https://img.shields.io/github/issues/weiyi-m/dhs-notes"> <img src="https://img.shields.io/github/license/weiyi-m/dhs-notes">
 
 Welcome! In here, you will find notes from Dunman High for all subjects.
 
