@@ -162,6 +162,13 @@ nav li a:hover:not(.active) {
     left: 0px;
 }
 
+.glitch {
+    animation: glitchAni 5s linear infinite;
+}
+
+
+
+
 a #thumbnail:hover {
     box-shadow: 0 10px 20px rgba(0,0,255,0.19), 0 6px 6px rgba(0, 0, 255, 0.23);
 }
@@ -203,7 +210,37 @@ a #thumbnail:hover {
     50% {
       transform: scale(0.6) rotate(-45deg);
     }
-  }
+}
+
+@keyframes glitchAni {
+    0% {
+      opacity: 0.5;
+      transform: rotate(-3deg) skew(7deg, 7deg);
+      -webkit-transform: rotate(-3deg);
+      -moz-transform: rotate(-3deg);
+      -ms-transform: rotate(-3deg);
+      -o-transform: rotate(-3deg);
+    }
+    2% {
+      opacity: 0.1;
+      transform: skew(-7deg, -7deg) translate(15px, 15px);
+      -webkit-transform: rotate(3deg);
+      -moz-transform: rotate(3deg);
+      -ms-transform: rotate(3deg);
+      -o-transform: rotate(3deg);
+    }
+    3% {
+      opacity: 1;
+      transform: skew(-7deg, -7deg) rotate(0deg);
+    }
+    4% {
+      transform: skew(0deg, 0deg) rotate(0deg) translate(2px, 2px);
+    }
+    5% {
+      transform: translate(0px, 0px);
+    }
+}
+
 
 @media (prefers-color-scheme: dark) {
     body {
