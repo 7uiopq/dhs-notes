@@ -7,7 +7,7 @@ Topics covered:
 
 <br>
 
-## Introduction
+## <b>1. Abiotic and Biotic Factors</b>
 
 Ecology is the study of the relationship between organisms (biotic environment), as well as how these organisms interact with their physical environment (abiotic environment.) 
 
@@ -15,12 +15,12 @@ Ecology is the study of the relationship between organisms (biotic environment),
 
 <em>Abiotic factors are non-living components of the ecosystem, which include all the physical factors that influence the organisms such as light, temperature, pH, etc.</em>
 
-#### Light intensity
+### Light intensity
 - Affects the growth of plants and animals
 - Green plants (with chlorophyll) exist only where there is a sufficient amount of light required to undergo photosynthesis
 - Many animals require light to see, hunt, and detect potential dangers, such as predators. On the other hand, some animals are adapted to live in conditions with little or no light.
 
-#### Temperature
+### Temperature
 - Affects the rate of metabolism in plants and animals
 - Most organisms cannot tolerate extreme temperatures (too high or too low)
 - Plants are able to survive through seasons such as summer and winter by:
@@ -29,7 +29,7 @@ Ecology is the study of the relationship between organisms (biotic environment),
   3. producing seeds which are resistant to extreme temperatures
 - Some animals are adapted physically (e.g. blubber in bears) and/or behaviourally (e.g. hibernation) to survive extreme temperatures
 
-#### Water Availability
+### Water Availability
 - Affects the population size and location of plants and animals
 - No living organism can survive without water
 - Some animals (e.g. camels) and plants (e.g. cacti) are adapted to survive in areas with limited water supply.
@@ -39,15 +39,15 @@ Ecology is the study of the relationship between organisms (biotic environment),
     3. green stems take over the function of photosynthesis from leaves
 - Some animals (e.g. fishes) and plants (e.g. hydrilla) are adapted to survive in aquatic environments.
 
-#### Oxygen Content
+### Oxygen Content
 - Most organisms require oxygen to survive
 - They cannot survive in environments with low oxygen content, unless they have special adaptations to obtain sufficient oxygen
 
-#### Salinity
+### Salinity
 - Aquatic organisms are affected by the concentration of salt in the water due to the difference in water potential between their cells and the aquatic environment
 - For example, freshwater organisms tend to have excess water entering the body cells by osmosis. Some adaptions to prevent rupturing of cells include having rigid cell walls in plants and contractile vacuooles in unicellular organisms such as the <em>paramecium</em>
 
-#### pH
+### pH
 - Acidity or alkalinity of soil water or aquatic habitats influences the types of organisms that can live in that environment
 - Aquatic organisms are sensitive to pH of the water. They may die if there is a drastic or sudden change in pH
 
@@ -72,7 +72,7 @@ Each species has a niche that differs in certain ways from the niches of the oth
 
 An organism cannot survive on its own. Living organisms evolved to have different relationships between each other. These <b>interrelationships</b> help to <b>keep the balance in an ecosystem</b>.
 
-#### Symbiotic Relationships
+### Symbiotic Relationships
 
 The type of interaction between organisms depends on wheterh one benefits, loses or gains nothing from the relationship. Some interactions in a community include:
 
@@ -88,4 +88,25 @@ The type of interaction between organisms depends on wheterh one benefits, loses
 - Commensalism
   - two species living together where one species benefits but the other is neither farmed nor benefits
   - e.g. barnacles living on whales
+
+
+## <b>2. Energy Transfer Process in the Ecosystem</b>
+
+## Non-Cyclic Energy Flow
+
+<b>Energy flow in the ecosystem is unidirectional and cannot be recycled.</b> Thus, energy has to be constantly supplied to the ecosystem.
+
+Energy enters most ecosystems as light energy from the sun, which is the ultimate source of energy.
+
+This energy is converted into chemical energy by the photosynthetic organisms via photosynthesis, and is transferred from one organism to another organism through feeding as carbon compounds.
+
+<b>Photosynthesis</b> is the process in which light energy is absorbed by chlorophyll is transformed into chemical energy:
+
+carbon dioxide + water -> (under the presence of light and chlorophyll) oxygen + glucose
+
+Energy is lost to the environment as heat during respiration as it flows through the ecosystem
+
+<b>Cellular</b> respiration is the breakdown of glucose in the presence of oxygen, with the release of a large amount of energy. Carbon dioxide and water are released in the process:
+
+glucose + oxygen -> carbon dioxide + water + energy
 
