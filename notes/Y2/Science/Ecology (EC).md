@@ -148,5 +148,68 @@ A limitation of food chinas is that they do not reflect the complex feeding rela
 
 A food web consists of many interlinked food chains and reflects all the possible transfers of energy and nutrients among organisms in a community.
 
+## <b>3. Nutrient Cycles in the Ecosystem</b>
+
+## Recycling of Nutrients in Living Organisms
+
+Decomposers such as bacteria and fungi feed on decaying organic matters.
+They break down dead bodies of organisms and faeces. Decomposers' activities return nutrients to the environment.
+
+## The Carbon Cycle
+
+Carbon is an important component of many compounds that supports life.
+
+The carbon cycle shows the pathways by which carbon is being removed from and released into the environment, in the form of carbon dioxide.
+
+This cycling of carbon dioxide in the environment constantly maintains its concentration at about 0.04% of the atmospheric air.
+
+The importances of carbon cycles include:
+  - ensuring that there is a continuous supply of carbon dioxide for plants to carry out photosynthesis, so that energy can be transferred from one organism to another in the form of carbon compounds, thus sustaining the lives of non-photosynthesizing organisms in the food chain.
+
+Carbon/carbon dioxide is removed from the atmosphere by:
+  - <b>photosynthesis</b>
+    - carbon dioxide is taken in by green plants and converted to glucose.
+  - <b>feeding</b>
+    - animals directly or indirectly obtain the carbon compounds from green plants through feeding.
+  - <b>formation of fossil fuels</b>
+    - carbon compounds in dead organisms are preserved over millions of years in fossil fuels such as coal, crude oil and natural gas.
+
+Carbon dioxide is released into the atmosphere by:
+  - <b>respiration</b>
+    - oxidation of the glucose to release energy. Carbon dioxide is formed when plants, animals and decomposers require.
+  - <b>decomposition</b>
+    - when organisms die, their bodies are broken down into simpler substances by the decomposers, releasing carbon dioxide in the process.
+  - <b>combustion
+    - burning of fossil fuels such as coal, crude oil and natural gas.
+
+## Carbon Sinks
+
+A <b>carbon sink</b> is an area that sores carbon compounds for an indefinite period. It stores more carbon than it releases. Hence, a carbon sink is a carbon reservoir.
+
+There are two main natural carbon sinks - forests and oceans.
+
+Carbon sinks help to remove carbon dioxide from the atmosphere and this helps to reduce the rate of global warming.
+
+A carbon sink can always turn into a carbon source. For example, the burning of forests releases carbon, effectively turning it into a carbon source.
+
+#### Oceans
+
+- Oceans are the largest carbon sinks on Earth.
+- About one third of the carbon dioxide released by human activities is absorbed by oceans.
+- Driven by two processes: <b>solubility</b> and <b>photosynthesis</b>.
+- Carbon dioxide dissolved in the ocean's water is absorbed and used by phyyoplankton and algae in photosynthesis.
+- Some carbon compounds are buried in the seabed in the form of fossil fuels.
+- Increasing temperatures of waters reduces the ability of oceans to dissolve carbon dioxide.
+
+#### Forests
+
+- Atmospheric carbon dioxide is absorbed by plants and used in photosynthesis.
+- Large amounts of carbon compounds are stored in trees.
+- When trees die, their remains may be buried deep in the ground.
+- After millions of years, these remains form coal.
+
+## Carbon Sources
+
+Carbon sources are areas that <b>releases more carbon than it stores</b>. Examples of natural carbon sources are volcanoes, natural fires, 
 
 
