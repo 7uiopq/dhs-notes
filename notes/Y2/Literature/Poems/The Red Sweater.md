@@ -28,8 +28,8 @@ putting on her polyester uniform, which, <br>
 even when it's newly-washed, smells <br>
 of mashed beans and cooked ground beef. 
 
-<br> <hr>
-
+<hr>
+<br>
 
 > "what everybody in school is wearing"
 - albeit expensive, the sweater is seen as a social norm, and it is what most people in school wears.
@@ -58,8 +58,8 @@ of mashed beans and cooked ground beef.
 > "even when it's newly-washed, smells of mashed beans and cooked ground beef."
 - shows how the mother works so hard that the scent of the food from the fast food joint seeps into her uniform
 
-<br><br><hr>
-
+<hr>
+<br><br>
 
 ### What impression does the mother give?
 
