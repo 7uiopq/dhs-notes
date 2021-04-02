@@ -59,7 +59,6 @@ of mashed beans and cooked ground beef.
 - shows how the mother works so hard that the scent of the food from the fast food joint seeps into her uniform
 
 <hr>
-<br><br>
 
 ### What impression does the mother give?
 
