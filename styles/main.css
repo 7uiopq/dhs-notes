@@ -212,34 +212,7 @@ a #thumbnail:hover {
     }
 }
 
-@keyframes glitchAni {
-    0% {
-      opacity: 0.5;
-      transform: rotate(-3deg) skew(7deg, 7deg);
-      -webkit-transform: rotate(-3deg);
-      -moz-transform: rotate(-3deg);
-      -ms-transform: rotate(-3deg);
-      -o-transform: rotate(-3deg);
-    }
-    2% {
-      opacity: 0.1;
-      transform: skew(-7deg, -7deg) translate(15px, 15px);
-      -webkit-transform: rotate(3deg);
-      -moz-transform: rotate(3deg);
-      -ms-transform: rotate(3deg);
-      -o-transform: rotate(3deg);
-    }
-    3% {
-      opacity: 1;
-      transform: skew(-7deg, -7deg) rotate(0deg);
-    }
-    4% {
-      transform: skew(0deg, 0deg) rotate(0deg) translate(2px, 2px);
-    }
-    5% {
-      transform: translate(0px, 0px);
-    }
-}
+
 
 
 @media (prefers-color-scheme: dark) {
