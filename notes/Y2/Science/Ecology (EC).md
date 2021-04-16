@@ -1,4 +1,4 @@
-# Ecology (EC1)
+# Ecology (EC)
 
 Topics covered: 
 - Populations, Community and Ecosystem
