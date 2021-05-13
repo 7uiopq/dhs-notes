@@ -7,7 +7,7 @@ Welcome! In here, you will find notes from Dunman High for all subjects.
 
 Please do take a look around! 
 
-If you are a student currently studying in Dunman High, feel free to use these notes as your reference when studying. However, if you are **not a Dunman High student**, please **refrain from distributing and sharing these notes without permission**, as these notes are only allowed to be internally distributed with the owner's permission. If you have any further inquiries, drop an email at dhschool.notes@gmail.com
+If you are a student currently studying in Dunman High, feel free to use these notes as your reference when studying. However, if you are **not a Dunman High student**, please **refrain from distributing and sharing these notes without permission**, as these notes are only allowed to be internally distributed with the owner's permission.
 
 If you would like to help out and commit pull requests to these notes or the website, please do so! Make sure your pull requests are helpful and valid.
 
