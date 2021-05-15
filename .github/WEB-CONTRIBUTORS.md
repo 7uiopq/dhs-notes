@@ -5,4 +5,4 @@
 
 After you have contributed, please add your name and Github profile below:
 
-Weiyi Ma, https://wwww.github.com/weiyi-m
+Weiyi Ma, https://www.github.com/weiyi-m
