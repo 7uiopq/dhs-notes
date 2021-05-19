@@ -402,7 +402,7 @@ ul.topbar a {
 }
 
 .post_content ol {
-    list-style: decimal-leading-zero;
+    list-style: decimal;
     margin: 0 0 15px 30px
 }
 
@@ -422,7 +422,17 @@ ul.topbar a {
 .post_content th,
 .post_content td {
     border: 1px solid #222222;
-    padding: 2px
+    padding: 8px;
+}
+
+.post_content table {
+    border-collapse: collapse
+}
+
+.post_content th {
+    background-color: #dddddd;
+    font-weight: bolder;
+    white-space: pre;
 }
 
 .post_content pre {

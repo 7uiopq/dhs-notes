@@ -422,7 +422,13 @@ ul.topbar a {
 .post_content th,
 .post_content td {
     border: 1px solid #222222;
-    padding: 2px
+    padding: 2px;
+    white-space: pre;
+}
+
+.post_content th {
+    background-color: #dddddd;
+    font-weight: bolder;
 }
 
 .post_content pre {
