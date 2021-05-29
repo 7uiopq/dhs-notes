@@ -445,11 +445,12 @@ ul.topbar a {
 }
 
 .footer p {
-    text-align: center
+    text-align: center;
+    color: #ffffff
 }
 
 .footer p a {
-    color: #24244a
+    color: #ffffff
 }
 
 .donate {
