@@ -3,7 +3,7 @@ on: push
 
 jobs:
   audit:
-    runs-on: macos-11
+    runs-on: ubuntu-latest
     steps:
     - name: Audit live URL
       uses: jakejarvis/lighthouse-action@master
@@ -13,4 +13,4 @@ jobs:
       uses: actions/upload-artifact@master
       with:
         name: report
-        path: './report'
+        path: './pages'
