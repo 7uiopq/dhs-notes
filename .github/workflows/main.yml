@@ -3,7 +3,7 @@ on: push
 
 jobs:
   audit:
-    runs-on: ubuntu-latest
+    runs-on: macos-11
     steps:
     - name: Audit live URL
       uses: jakejarvis/lighthouse-action@master
