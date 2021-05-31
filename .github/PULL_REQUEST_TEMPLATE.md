@@ -3,11 +3,12 @@
 ## Description
 <!--- Describe your changes in detail -->
 
-## Related Issue
-<!--- This project only accepts pull requests related to open issues -->
+## Related Issue/Project
+<!--- This project only accepts pull requests related to open issues and projects -->
 <!--- If suggesting a new feature or change, please discuss it in an issue first -->
 <!--- If fixing a bug, there should be an issue describing it with steps to reproduce -->
-<!--- Please link to the issue here: -->
+<!--- If working on a project, ensure that the project has not been completed -->
+<!--- Please link to the issue/project here: -->
 
 ## Motivation and Context
 <!--- Why is this change required? What problem does it solve? -->
